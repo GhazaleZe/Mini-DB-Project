@@ -13,3 +13,6 @@ A UI for these features.
 - Working with loops (SQL)
 - Connecting UI to SQL server (C#)
 - Creating datagridview (C#)
+
+<img width="448" alt="Screenshot (988)" src="https://user-images.githubusercontent.com/41547574/89118002-9f9a1380-d4b7-11ea-980c-4013e9c223e2.png">
+
