@@ -72,7 +72,7 @@ namespace WindowsFormsApp_DB
         {
             string connetionString = null;
             SqlConnection cnn;
-            connetionString = "Data Source=ZEHTAB-QT724IR;Initial Catalog=BankProject;Integrated Security=True";
+            connetionString = "Data Source=server name;Initial Catalog=BankProject;Integrated Security=True";
             cnn = new SqlConnection(connetionString);
 
             //SqlCommand cmd = new SqlCommand("select * from Customer_validation");
@@ -139,7 +139,7 @@ namespace WindowsFormsApp_DB
         {
             string connetionString = null;
             SqlConnection cnn;
-            connetionString = "Data Source=ZEHTAB-QT724IR;Initial Catalog=BankProject;Integrated Security=True";
+            connetionString = "Data Source=server name;Initial Catalog=BankProject;Integrated Security=True";
             cnn = new SqlConnection(connetionString);
             try
             {
